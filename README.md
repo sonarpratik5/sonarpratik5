@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sonarpratik5
-- 👀 I’m interested in Programming and Management
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on UI/UX designing, WordPress Development and Java Programming
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Data Science and Artificial Intelligence
+- 💞️ I’m looking to collaborate on Web Development, Machine Learning and Computer Vision
 - 📫 How to reach me sonarpratik8@gmail.com
 
 <!---
